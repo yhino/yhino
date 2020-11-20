@@ -1,3 +1,3 @@
-# Yoshiyuki HINO—@yhino
+<h1 align="center">Yoshiyuki HINO—@yhino</h1>
 
-Hello.
+<p align="center">Hello.</p>
